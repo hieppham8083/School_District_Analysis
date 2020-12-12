@@ -13,8 +13,9 @@ Overall it does not affect any score and the results are almost the same.
 ![alt text](../main/Resources/Overall_Passing_Results.png "Overall_Passing_Results")
 
 ## Results Summary
-  - % Overall passing does not change.
-  - School Type and School Size remained the same.
+  - Overall it does not affect either the reading scores or math scores.
+  - Percentage Overall passing does not change.
+  - Scores by School Type and School Size remained the same.
   - The only change in data is with Thomas High School.
   
 
