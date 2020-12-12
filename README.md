@@ -1,5 +1,5 @@
 # School_District_Analysis
-Using Python and Pandas to analyze school district data
+Using Python and Pandas to analyze school district data. 
 Refer to [PyCitySchools_Challenge.ipynb](../main/PyCitySchools_Challenge.ipynb).
 
 ## Overview of Project
